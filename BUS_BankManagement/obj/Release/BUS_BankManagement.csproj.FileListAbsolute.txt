@@ -1,0 +1,9 @@
+D:\1_Project_C#\BankManagement\BUS_BankManagement\bin\Release\BUS_BankManagement.dll
+D:\1_Project_C#\BankManagement\BUS_BankManagement\bin\Release\BUS_BankManagement.pdb
+D:\1_Project_C#\BankManagement\BUS_BankManagement\bin\Release\DAL_BankManagement.dll
+D:\1_Project_C#\BankManagement\BUS_BankManagement\bin\Release\DTO_BankManagement.dll
+D:\1_Project_C#\BankManagement\BUS_BankManagement\bin\Release\DAL_BankManagement.pdb
+D:\1_Project_C#\BankManagement\BUS_BankManagement\bin\Release\DTO_BankManagement.pdb
+D:\1_Project_C#\BankManagement\BUS_BankManagement\obj\Release\BUS_BankManagement.csprojResolveAssemblyReference.cache
+D:\1_Project_C#\BankManagement\BUS_BankManagement\obj\Release\BUS_BankManagement.dll
+D:\1_Project_C#\BankManagement\BUS_BankManagement\obj\Release\BUS_BankManagement.pdb

@@ -1,0 +1,5 @@
+D:\1_Project_C#\BankManagement\DTO_BankManagement\bin\Release\DTO_BankManagement.dll
+D:\1_Project_C#\BankManagement\DTO_BankManagement\bin\Release\DTO_BankManagement.pdb
+D:\1_Project_C#\BankManagement\DTO_BankManagement\obj\Release\DTO_BankManagement.csprojResolveAssemblyReference.cache
+D:\1_Project_C#\BankManagement\DTO_BankManagement\obj\Release\DTO_BankManagement.dll
+D:\1_Project_C#\BankManagement\DTO_BankManagement\obj\Release\DTO_BankManagement.pdb
